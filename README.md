@@ -1,6 +1,7 @@
 # BiomedTech
 Proyecto Final Telemedicina
 Para el tratamiento del Hipertenso se obtuvieron las siguientes ganancias:
+
 $$
 \frac{1}{R_{e}C_{r}} = k_{I} = 26919.2549\,
 $$
